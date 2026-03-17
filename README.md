@@ -37,8 +37,8 @@ Student at MIPT, passionate about low-level programming, CPU architecture, and d
 ## Projects
 
 - [**CPU Emulator**](https://github.com/Dariazeml1007/Processor) — software model of a CPU with assembler compiler. Supports labels, recursion, deep understanding of processor architecture.
-- [**TOY ISA Emulator**](https://github.com/Dariazem1007/CPU-interpreter) — CPU emulator with 14 instructions, mixed encoding, interrupt handling. Micro-assembler in Ruby, emulation core in C++.
-- [**Mandelbrot Optimization**](https://github.com/Dariazem1007/Mandelbrot) — comparison of scalar, -O3, and hand-optimized AVX2 implementations. Interactive visualization, performance profiling.
-- [**Hash table Optimization**](https://github.com/Dariazem1007/Hash_table) — ultra-fast substring search using CRC32/AVX2 intrinsics. Achieved 1.76× speedup (220 coefficient), profiling with Valgrind.
-- [**2Q Cache Simulator**](https://github.com/Dariazem1007/Cache_2Q_simulation) — two-queue cache algorithm implementation in C++17. Understanding of cache organization and replacement policies.
-- [**ParaCL Interpreter**](https://github.com/Dariazem1007/ParaCL) — custom programming language interpreter with Flex/Bison lexer/parser, AST, and GoogleTest unit tests.
+- [**TOY ISA Emulator**](https://github.com/Dariazeml1007/CPU-interpreter) — CPU emulator with 14 instructions, mixed encoding, interrupt handling. Micro-assembler in Ruby, emulation core in C++.
+- [**Mandelbrot Optimization**](https://github.com/Dariazeml1007/Mandelbrot) — comparison of scalar, -O3, and hand-optimized AVX2 implementations. Interactive visualization, performance profiling.
+- [**Hash table Optimization**](https://github.com/Dariazeml1007/Hash_table) — ultra-fast substring search using CRC32/AVX2 intrinsics. Achieved 1.76× speedup (220 coefficient), profiling with Valgrind.
+- [**2Q Cache Simulator**](https://github.com/Dariazeml1007/Cache_2Q_simulation) — two-queue cache algorithm implementation in C++17. Understanding of cache organization and replacement policies.
+- [**ParaCL Interpreter**](https://github.com/Dariazeml1007/ParaCL) — custom programming language interpreter with Flex/Bison lexer/parser, AST, and GoogleTest unit tests.
