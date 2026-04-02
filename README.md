@@ -41,7 +41,7 @@ Student at MIPT, passionate about low-level programming, CPU architecture, and d
 | Project | Tech | Description |
 |---------|------|-------------|
 | [CPU Emulator](https://github.com/Dariazeml1007/Processor) | C | Assembler compiler + stack VM. Supports labels, recursion |
-| [Low-level printf](https://github.com/Dariazeml1007/printf-asm) | C, NASM, System V ABI | C-ASM extern interface. Supports %d, %s, %c, %%, %b/%o/%x |
+| [Low-level printf](https://github.com/Dariazeml1007/MyAsmPrintf). | C, NASM, System V ABI | C-ASM extern interface. Supports %d, %s, %c, %%, %b/%o/%x |
 | [Mandelbrot Optimization](https://github.com/Dariazeml1007/Mandelbrot) | C, AVX2 | Scalar vs -O3 vs hand-tuned AVX2. Interactive visualization |
 | [Hash Table Optimization](https://github.com/Dariazeml1007/Hash_table) | C, x86-64 ASM, AVX2, Valgrind | CRC32/AVX2 substring search. 1.76× speedup |
 
@@ -52,7 +52,7 @@ Student at MIPT, passionate about low-level programming, CPU architecture, and d
 | Project | Tech | Description |
 |---------|------|-------------|
 | [2Q Cache Simulator](https://github.com/Dariazeml1007/Cache_2Q_simulation) | C++17, STL | Two-Queue algorithm, 90% accuracy |
-| [BST with Range Queries](https://github.com/Dariazeml1007/AVL-Tree) | C++17, AVL, GoogleTest | Range counting, balancing, Graphviz dump |
+| [BST with Range Queries](https://github.com/Dariazeml1007/BST-Range-Query) | C++17, AVL, GoogleTest | Range counting, balancing, Graphviz dump |
 | [ParaCL Interpreter](https://github.com/Dariazeml1007/ParaCL) | C++17, Flex, Bison, GoogleTest | Lexer → Parser → AST → interpretation |
 
 ---
