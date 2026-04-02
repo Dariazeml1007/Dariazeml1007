@@ -61,8 +61,8 @@ Student at MIPT, passionate about low-level programming, CPU architecture, and d
 
 | Project | Tech | Description |
 |---------|------|-------------|
-| [ALU with Register](https://github.com/Dariazeml1007/computer-architecture-sber/tree/main/homework2/Alu-register) | Verilog | 8 operations, registered output, testbench |
-| [8-to-1 Multiplexer](https://github.com/Dariazeml1007/computer-architecture-sber/tree/main/homework1/Logisim) | Logisim | NOT/NAND/NOR implementation, critical path analysis |
+| [ALU with Register](https://github.com/Dariazeml1007/computer-architecture-sber/tree/master/homework2) | Verilog | 8 operations, registered output, testbench |
+| [8-to-1 Multiplexer](https://github.com/Dariazeml1007/computer-architecture-sber/tree/master/homework1) | Logisim | NOT/NAND/NOR implementation, critical path analysis |
 
 ---
 
