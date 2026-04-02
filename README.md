@@ -36,9 +36,46 @@ Student at MIPT, passionate about low-level programming, CPU architecture, and d
 
 ## Projects
 
-- [**CPU Emulator**](https://github.com/Dariazeml1007/Processor) — software model of a CPU with assembler compiler. Supports labels, recursion, deep understanding of processor architecture.
-- [**TOY ISA Emulator**](https://github.com/Dariazeml1007/CPU-interpreter) — CPU emulator with 14 instructions, mixed encoding, interrupt handling. Micro-assembler in Ruby, emulation core in C++.
-- [**Mandelbrot Optimization**](https://github.com/Dariazeml1007/Mandelbrot) — comparison of scalar, -O3, and hand-optimized AVX2 implementations. Interactive visualization, performance profiling.
-- [**Hash table Optimization**](https://github.com/Dariazeml1007/Hash_table) — ultra-fast substring search using CRC32/AVX2 intrinsics. Achieved 1.76× speedup (220 coefficient), profiling with Valgrind.
-- [**2Q Cache Simulator**](https://github.com/Dariazeml1007/Cache_2Q_simulation) — two-queue cache algorithm implementation in C++17. Understanding of cache organization and replacement policies.
-- [**ParaCL Interpreter**](https://github.com/Dariazeml1007/ParaCL) — custom programming language interpreter with Flex/Bison lexer/parser, AST, and GoogleTest unit tests.
+### 1. Compiler Technologies (MIPT / Dedinsky I.R.)
+
+| Project | Tech | Description |
+|---------|------|-------------|
+| [CPU Emulator](https://github.com/Dariazeml1007/Processor) | C | Assembler compiler + stack VM. Supports labels, recursion |
+| [Low-level printf](https://github.com/Dariazeml1007/printf-asm) | C, NASM, System V ABI | C-ASM extern interface. Supports %d, %s, %c, %%, %b/%o/%x |
+| [Mandelbrot Optimization](https://github.com/Dariazeml1007/Mandelbrot) | C, AVX2 | Scalar vs -O3 vs hand-tuned AVX2. Interactive visualization |
+| [Hash Table Optimization](https://github.com/Dariazeml1007/Hash_table) | C, x86-64 ASM, AVX2, Valgrind | CRC32/AVX2 substring search. 1.76× speedup |
+
+---
+
+### 2. Industrial C++ Programming (MIPT / Vladimirov K.I.)
+
+| Project | Tech | Description |
+|---------|------|-------------|
+| [2Q Cache Simulator](https://github.com/Dariazeml1007/Cache_2Q_simulation) | C++17, STL | Two-Queue algorithm, 90% accuracy |
+| [BST with Range Queries](https://github.com/Dariazeml1007/AVL-Tree) | C++17, AVL, GoogleTest | Range counting, balancing, Graphviz dump |
+| [ParaCL Interpreter](https://github.com/Dariazeml1007/ParaCL) | C++17, Flex, Bison, GoogleTest | Lexer → Parser → AST → interpretation |
+
+---
+
+### 3. Computer Architecture (Sber / MIPT)
+
+| Project | Tech | Description |
+|---------|------|-------------|
+| [ALU with Register](https://github.com/Dariazeml1007/computer-architecture-sber/tree/main/homework2/Alu-register) | Verilog | 8 operations, registered output, testbench |
+| [8-to-1 Multiplexer](https://github.com/Dariazeml1007/computer-architecture-sber/tree/main/homework1/Logisim) | Logisim | NOT/NAND/NOR implementation, critical path analysis |
+
+---
+
+### 4. Tensor Compilers (Sber / MIPT)
+
+| Project | Tech | Description |
+|---------|------|-------------|
+| [Compiler Optimizations Lab](https://github.com/Dariazeml1007/compiler-optimizations-lab) | C, bash | CFG, dominator tree, SSA, LICM, Constant Folding, Loop Stride |
+
+---
+
+### 5. Simulation Tools (MIPT)
+
+| Project | Tech | Description |
+|---------|------|-------------|
+| [TOY ISA Emulator](https://github.com/Dariazeml1007/CPU-interpreter) | C++17, Ruby, DSL | 14 instructions, mixed encoding, interrupts. Micro-assembler in Ruby |
