@@ -14,8 +14,8 @@
 ## About Me
 Student at MIPT, passionate about low-level programming, CPU architecture, and digital design. I enjoy understanding how computers work from the inside out
 
-Look at my CV !!!
-[CV](https://github.com/Dariazeml1007/CV)
+Look at my [CV](https://github.com/Dariazeml1007/CV) !!!
+
 
 ## Tech Stack
 
